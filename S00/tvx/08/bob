@@ -1,0 +1,1 @@
+find . -iname "*~" -print -d -or -iname "#*#" -print -d
